@@ -84,9 +84,6 @@ a {
   margin-right: auto;
 }
 
-span.bold {
-  font-weight: bolder;
-}
 
 .icons {
   color: rgb(223, 22, 22);
@@ -102,3 +99,4 @@ span.bold {
   text-align: center;
   padding: 15px;
 }
+
